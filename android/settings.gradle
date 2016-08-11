@@ -1,0 +1,3 @@
+rootProject.name = 'Bai22ListViewPhan2'
+
+include ':app'
